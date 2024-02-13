@@ -26,7 +26,7 @@
             background-color: aquamarine;
             color: black;
             transition: 1.5s;
-            margin-left: 650px;
+            margin-left: 651px;
             
         }
         .btn:hover{
