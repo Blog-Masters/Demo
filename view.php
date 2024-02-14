@@ -7,14 +7,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MySQL PHP Blog</title>
+    <title>Blog</title>
 <style>
     body{
         background-color: grey;
         text-align: center;  
     }
     .btn{
-            background-color: ;
             color: white;
             transition: 1.5s;
             
