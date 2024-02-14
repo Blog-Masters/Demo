@@ -24,7 +24,7 @@
         }
         .btn{
             background-color: aquamarine;
-            color: black;
+            color: grey;
             transition: 1.5s;
             margin-left: 651px;
             
